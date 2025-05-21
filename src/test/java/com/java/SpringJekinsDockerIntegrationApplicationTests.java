@@ -8,6 +8,7 @@ class SpringJekinsDockerIntegrationApplicationTests {
 
 	@Test
 	void contextLoads() {
+		System.out.println("print statement in test..");
 	}
 
 }
